@@ -23,7 +23,7 @@
 
 🎓 Estudiante de **octavo semestre de Ingeniería de Sistemas** en la Universidad del Valle.  
 💻 Enfocado en el **desarrollo backend** y en la construcción de soluciones escalables.  
-⚙️ Con experiencia en **software web, móvil y de escritorio**.  
+⚙️ Con experiencia en **software web y de escritorio**.  
 📊 Actualmente aprendiendo **Ciencia de Datos** y **Machine Learning** para crear sistemas inteligentes.  
 🚀 Interesado en CI/CD, arquitectura de software y optimización backend.
 
@@ -49,7 +49,7 @@ Creo firmemente que la tecnología puede generar impacto social real.
 ## 🔥 Tecnologías y Habilidades
 
 ### 🖥️ **Lenguajes**
-- C++, C#, HTML, CSS, Java, Python, JavaScript, TypeScript, Kotlin, XML
+- C++, C#, HTML, CSS, Java, Python, JavaScript, TypeScript
 
 ### 🧰 **Frameworks y Librerías**
 - Angular  
@@ -144,7 +144,7 @@ Creo firmemente que la tecnología puede generar impacto social real.
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,cpp,css,discord,docker,postgres,figma,github,html,java,js,mongodb,mysql,postman,py,react,ts,vscode,kubernetes,net,cs,gradle,kotlin,angular&perline=14" />
+    <img src="https://skillicons.dev/icons?i=git,cpp,css,docker,postgres,figma,github,html,java,js,mongodb,mysql,postman,py,react,ts,kubernetes,net,cs,gradle,kotlin,angular&perline=14" />
   </a>
 </p>
 
