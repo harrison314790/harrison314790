@@ -144,7 +144,7 @@ Creo firmemente que la tecnología puede generar impacto social real.
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,cpp,css,docker,postgres,figma,github,html,java,js,mongodb,mysql,postman,py,react,ts,kubernetes,net,cs,gradle,kotlin,angular&perline=14" />
+    <img src="https://skillicons.dev/icons?i=git,cpp,css,docker,postgres,figma,github,html,java,js,mongodb,mysql,postman,py,react,ts,kubernetes,net,cs,gradle,angular&perline=14" />
   </a>
 </p>
 
